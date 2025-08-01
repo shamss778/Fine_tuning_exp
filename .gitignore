@@ -46,10 +46,8 @@ env/
 ehthumbs.db
 Thumbs.db
 
-# Ignore files in MNIST data directories but keep folder structure
 # Ignore everything in MNIST data directory
-data/MNIST/raw/MNIST/*
+data/MNIST/*
 
 
-data/SVHN*
-data/SVHN.gitkeep
+data/SVHN/*
