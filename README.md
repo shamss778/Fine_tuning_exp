@@ -1,4 +1,4 @@
-# Fine-Tuning Experiment
+# Domain Adaptation Experiment
 
 ## Project Overview
 This project contains machine learning experiments focused on fine-tuning deep learning models for image classification tasks. The workspace includes implementations for MNIST handwritten digit recognition and SVHN (Street View House Numbers) classification with various training approaches and optimizations.
